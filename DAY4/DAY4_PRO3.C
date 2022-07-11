@@ -1,0 +1,10 @@
+HOW TO COMPLIMENT A BIT 
+
+   #include <stdio.h>
+   int main()
+   {
+       int a=10,p=2;
+       a=a^(1<<p);
+       printf("%d",a);
+       return 0;
+   }
